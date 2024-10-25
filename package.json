@@ -1,0 +1,14 @@
+{
+  "name": "conectando-node-com-postgres",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dbconectando.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^8.13.1"
+  }
+}
